@@ -3,7 +3,7 @@ Unit testing calc
 """
 
 
-import calc
+import calculator
 
 
 class testCalc:

@@ -8,7 +8,7 @@ import calculator
 
 class testCalc:
     def test_add(self):
-        assert 5 == calc.add(1, 4)
+        assert 5 == calculator.add(1, 4)
 
     def test_sub(self):
-        assert 2 == calc.add(3, 1)
+        assert 2 == calculator.add(3, 1)
